@@ -26,4 +26,3 @@ class TestDicts:
         tel = {'jack': 4098, 'sape': 4139}
         tel_list = list(tel.keys())
         assert type(tel_list) == type([]) and tel_list[0] == 'jack'
-

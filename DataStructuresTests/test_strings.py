@@ -25,4 +25,3 @@ class TestStrings:
             if i == a_sub[0]:
                 ind = a.index(i)
         assert ind == index
-

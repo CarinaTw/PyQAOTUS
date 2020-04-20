@@ -26,3 +26,5 @@ class TestLists:
     def test_list_clear(self):
         lst = [1, 2, 3, 4]
         assert lst.clear() == None
+
+
